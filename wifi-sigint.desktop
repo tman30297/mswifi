@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Wifi-Sigint
+Exec=sudo /usr/local/bin/bbd.sh
+Terminal=true
+Type=Application
+StartupNotify=true
+X-Gnome-Autostart-enabled=true
+
